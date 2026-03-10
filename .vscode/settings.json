@@ -1,0 +1,104 @@
+{
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\cpp\\cppexercises\\week1\\src\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\week1\\src\\data_types\\initials_maker.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\week1\\src\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\week1\\src\\data_types\\hello_world.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\week1\\src\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\week1\\src\\data_types\\present_yourself.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\week1\\src\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\week1\\src\\data_types\\calc_addition.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\build\\week1\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\build\\week1\\data_types\\calc_addition.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\build\\week1\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\build\\week1\\data_types\\calc_division.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\build\\week1\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\build\\week1\\data_types\\time_calculator.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\build\\week1\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\build\\week1\\data_types\\no_loose_change.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\build\\week1\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\build\\week1\\data_types\\change_to_caps.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\build\\week1\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\build\\week1\\data_types\\wordfeud.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\build\\week1\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\build\\week1\\data_types\\initials_maker.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\build\\week1\\data_types",
+            "binaryPath": "d:\\cpp\\cppexercises\\build\\week1\\data_types\\datatype_size.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\week1\\src\\control_statements",
+            "binaryPath": "d:\\cpp\\cppexercises\\week1\\control_statements\\check_age.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\week1\\src\\control_statements",
+            "binaryPath": "d:\\cpp\\cppexercises\\week1\\control_statements\\check_fever.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\week1\\src\\control_statements",
+            "binaryPath": "d:\\cpp\\cppexercises\\week1\\control_statements\\got_milk.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\week1\\src\\control_statements",
+            "binaryPath": "d:\\cpp\\cppexercises\\week1\\control_statements\\compare_with10.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\week1\\src\\control_statements",
+            "binaryPath": "d:\\cpp\\cppexercises\\week1\\control_statements\\check_scandinavia.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\week1\\src\\control_statements",
+            "binaryPath": "d:\\cpp\\cppexercises\\week1\\src\\control_statements\\money_discount.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\week1\\src\\control_statements",
+            "binaryPath": "d:\\cpp\\cppexercises\\week1\\src\\control_statements\\print_ticket_message.exe",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "d:\\cpp\\cppexercises\\build\\week1\\control_statements",
+            "binaryPath": "d:\\cpp\\cppexercises\\build\\week1\\control_statements\\compare_with10.exe",
+            "binaryArgs": []
+        }
+    ]
+}
