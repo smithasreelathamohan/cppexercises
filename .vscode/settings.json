@@ -100,5 +100,6 @@
             "binaryPath": "d:\\cpp\\cppexercises\\build\\week1\\control_statements\\compare_with10.exe",
             "binaryArgs": []
         }
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
 }
